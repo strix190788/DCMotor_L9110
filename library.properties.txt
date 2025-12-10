@@ -1,0 +1,9 @@
+name=DCMotor_L9110
+version=1.0.0
+author=balandinls
+maintainer=balandinls
+sentence= Управление двигателем постоянного тока драйвером L9110
+paragraph=Библиотека для Arduino IDE для управления двигателем постоянного тока, подключенного к драйверу L9110.
+category=Device Control
+url=https://github.com/balandinls/DCMotor_L9110
+architectures=*
